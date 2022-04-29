@@ -8,5 +8,6 @@
 - Computer Science B.S! 
 - Graduating May 2022 :mortar_board:
 - I'm interested in Full-Stack Engineering and iOS Development :computer: :desktop_computer: 
+- Open to work opportunities!
 
 ### Let's Connect on [LinkedIn!](https://www.linkedin.com/in/luis-morfin-/) :handshake: 
