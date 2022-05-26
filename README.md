@@ -9,5 +9,3 @@
 - Graduated May 2022 :mortar_board:
 - I'm interested in Front-End Development  :desktop_computer:  and iOS Development :computer: 📱
 - Open to work opportunities!
-
-### Let's Connect on [LinkedIn!](https://www.linkedin.com/in/luis-morfin-/) :handshake: 
