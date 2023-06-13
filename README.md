@@ -4,6 +4,6 @@
 
 
 - I am from the Bay Area :sunny: :cloud: 
-- Recent Grad from Cal-State East Bay :school_satchel: :pencil2: 
-- Computer Science B.S! 
+- Computer Science B.S!  
+- I am a Software Engineer with 1 year of experience. Specializing in Full-Stack Develpoment but prefer to work in the backend.
 
