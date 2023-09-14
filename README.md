@@ -1,8 +1,8 @@
-# Hi, I'm Luis.
-- 💻 www.luismorfin.com
-- 👋 Software Engineer working in Full-Stack Development.
+# Hi, I'm Luis 🇲🇽
+- 🌎 www.luismorfin.com
+- 👨‍💻 Software Engineer working in Full-Stack Development.
 - 🎓 Obtained my Bachelor's degree in Computer Science from Cal State East Bay.
-- 💼 Actively seeking for Backend or Full-Stack opportunities.
+- 🔍 Actively seeking for Backend or Full-Stack opportunities.
 
 
 
@@ -40,7 +40,7 @@
 ![SupaBase](https://img.shields.io/badge/SupaBase-black?style=for-the-badge&logo=SupaBase)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### Hosting & Tools
+### Dev Tools
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
