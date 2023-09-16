@@ -1,4 +1,4 @@
-# Hi, I'm Luis 🇲🇽
+# Hi, I'm Luis.
 - 🌎 www.luismorfin.com
 - 👨‍💻 Software Engineer working in Full-Stack Development.
 - 🎓 Obtained my Bachelor's degree in Computer Science from Cal State East Bay.
